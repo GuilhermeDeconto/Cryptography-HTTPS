@@ -1,0 +1,1 @@
+rootProject.name = "seguranca-sistemas-t3"
